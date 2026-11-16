@@ -2,3 +2,8 @@
 __pycache__
 .coverage
 htmlcov
+output.xml
+log.html
+report.html
+*.swp
+osa3/oma-kontti/
